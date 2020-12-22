@@ -106,6 +106,7 @@ sr.reveal(`.home, .home__img,
     interval: 200
 })
 
+// 
 // sr.reveal(`.home__data, .home__img,
 //             .about__data, .about__img,
 //             .services__content, .menu__content,
